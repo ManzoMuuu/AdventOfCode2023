@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LavaFacility
-build_property.ProjectDir = E:\Progetti\AdventOfCode\2023\15\LavaFacility\
+build_property.ProjectDir = E:\Progetti\AdventOfCode\2023\AdventOfCode2023\15\LavaFacility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

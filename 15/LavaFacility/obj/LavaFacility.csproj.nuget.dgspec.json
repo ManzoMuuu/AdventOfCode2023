@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Progetti\\AdventOfCode\\2023\\15\\LavaFacility\\LavaFacility.csproj": {}
+    "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\15\\LavaFacility\\LavaFacility.csproj": {}
   },
   "projects": {
-    "E:\\Progetti\\AdventOfCode\\2023\\15\\LavaFacility\\LavaFacility.csproj": {
+    "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\15\\LavaFacility\\LavaFacility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Progetti\\AdventOfCode\\2023\\15\\LavaFacility\\LavaFacility.csproj",
+        "projectUniqueName": "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\15\\LavaFacility\\LavaFacility.csproj",
         "projectName": "LavaFacility",
-        "projectPath": "E:\\Progetti\\AdventOfCode\\2023\\15\\LavaFacility\\LavaFacility.csproj",
+        "projectPath": "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\15\\LavaFacility\\LavaFacility.csproj",
         "packagesPath": "C:\\Users\\Li7eD\\.nuget\\packages\\",
-        "outputPath": "E:\\Progetti\\AdventOfCode\\2023\\15\\LavaFacility\\obj\\",
+        "outputPath": "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\15\\LavaFacility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Visual Studio 2022\\NuGetPackages"
