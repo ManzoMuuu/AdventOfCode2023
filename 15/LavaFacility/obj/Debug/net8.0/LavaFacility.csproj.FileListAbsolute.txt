@@ -1,0 +1,14 @@
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\bin\Debug\net8.0\LavaFacility.exe
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\bin\Debug\net8.0\LavaFacility.deps.json
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\bin\Debug\net8.0\LavaFacility.runtimeconfig.json
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\bin\Debug\net8.0\LavaFacility.dll
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\bin\Debug\net8.0\LavaFacility.pdb
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\LavaFacility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\LavaFacility.AssemblyInfoInputs.cache
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\LavaFacility.AssemblyInfo.cs
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\LavaFacility.csproj.CoreCompileInputs.cache
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\LavaFacility.dll
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\refint\LavaFacility.dll
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\LavaFacility.pdb
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\LavaFacility.genruntimeconfig.cache
+E:\Progetti\AdventOfCode\2023\15\LavaFacility\obj\Debug\net8.0\ref\LavaFacility.dll
