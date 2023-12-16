@@ -21,15 +21,6 @@ static class Function{
         return currentValue;
     }
 
-    public static string LabelCreator(string newString){
-        char []splitted = newString.ToCharArray();
-        string label ="";
-        foreach (var item in splitted){
-            if (item != '=' && item != '-') label += item;
-           
-        }
-        return label;
-    }
 
     public static int AddOrRemove(char newString){
         if (newString == '=') return Constants.Add;
