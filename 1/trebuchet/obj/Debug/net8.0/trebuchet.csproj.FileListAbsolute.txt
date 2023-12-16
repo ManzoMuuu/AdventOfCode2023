@@ -1,0 +1,15 @@
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\bin\Debug\net8.0\trebuchet.exe
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\bin\Debug\net8.0\trebuchet.deps.json
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\bin\Debug\net8.0\trebuchet.runtimeconfig.json
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\bin\Debug\net8.0\trebuchet.dll
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\bin\Debug\net8.0\trebuchet.pdb
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.AssemblyInfoInputs.cache
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.AssemblyInfo.cs
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.csproj.CoreCompileInputs.cache
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.sourcelink.json
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.dll
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\refint\trebuchet.dll
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.pdb
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\trebuchet.genruntimeconfig.cache
+E:\Progetti\AdventOfCode\2023\AdventOfCode2023\1\trebuchet\obj\Debug\net8.0\ref\trebuchet.dll

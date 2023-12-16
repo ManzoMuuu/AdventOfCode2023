@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\1\\trebuchet\\trebuchet.csproj": {}
+  },
+  "projects": {
+    "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\1\\trebuchet\\trebuchet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\1\\trebuchet\\trebuchet.csproj",
+        "projectName": "trebuchet",
+        "projectPath": "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\1\\trebuchet\\trebuchet.csproj",
+        "packagesPath": "C:\\Users\\Li7eD\\.nuget\\packages\\",
+        "outputPath": "E:\\Progetti\\AdventOfCode\\2023\\AdventOfCode2023\\1\\trebuchet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files\\Visual Studio 2022\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Li7eD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
