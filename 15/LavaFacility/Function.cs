@@ -1,3 +1,5 @@
+using System.Net;
+using System.Reflection.Emit;
 using System.Text;
 
 static class Function{
@@ -17,5 +19,25 @@ static class Function{
 
         
         return currentValue;
+    }
+
+    public static string LabelCreator(string newString){
+        char []splitted = newString.ToCharArray();
+        string label ="";
+        foreach (var item in splitted){
+            if (item != '=' && item != '-') label += item;
+           
+        }
+        return label;
+    }
+
+    public static int AddOrRemove(char newString){
+        if (newString == '=') return Constants.Add;
+        else if(newString == '-') return Constants.Remove;
+        return 0;
+    }
+
+    public static int FocusingPower (int boxNumber, int boxSlot, int focalLength){
+        return (1+boxNumber) * (1+boxSlot) * focalLength;
     }
 }
